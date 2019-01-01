@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XampleWithLogFiles</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="next_page">Next Page</string>
+</resources>
